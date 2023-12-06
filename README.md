@@ -38,7 +38,7 @@ This is more-or-less the class hierarchy that I envisioned &amp; re-envisioned d
   - Tree
     - BinaryTree
     - BTree
-    - SelfBalancingTree
+    - AVLTree
   - Graph
 
 ## How to Install
@@ -78,6 +78,10 @@ Documentation for each class is included in (many of) the files.
 You will need to install my [Platform](https://github.com/kwoodman1970/Platform) and [TestSuite](https://github.com/kwoodman1970/TestSuite) libraries for this.
 
 Compile and link `src/example/testdatastructures.cpp` into a command-line executable and run it from the same directory that `src/example/testdata.txt` is in.  It will perform a simple test on the DStack data structure.  Can you make it test the SStack data structure, too?
+
+## Technologies Used
+
+- [Borland C++](https://en.wikipedia.org/wiki/Borland_C%2B%2B)
 
 ## TODO
 
